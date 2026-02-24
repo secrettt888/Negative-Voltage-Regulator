@@ -6,9 +6,10 @@ A fully discrete negative voltage regulator built entirely from transistors (no 
 
 
 ## ⚡ Specifications
-* **Input Voltage ($V_{in}$): -37V to -40V
-* **Output Voltage ($V_{out}$): -32V to -34V
+* **Input Voltage ($V_{in}$) ** :  -40V to -37V 
+* **Output Voltage ($V_{out}$) ** : -34V to -32V
 * **Max Current:** : 44mA
+* **Output resistance** : <=4Ω
 
 ## 📂 Repository Contents
 * **/Schematic:** KiCad/Eagle source files and PDF schematics.
