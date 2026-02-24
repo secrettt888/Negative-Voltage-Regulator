@@ -33,8 +33,8 @@ The circuit relies entirely on discrete components to achieve stable voltage reg
 7. **Overcurrent Protection (OCP):** Features a foldback current limiting circuit to safely reduce power dissipation in the pass element during a short circuit or heavy overload.
 
 ## 📈 Simulation Results
-** OCP: ** <img width="1257" height="502" alt="Overcurrent_protection" src="https://github.com/user-attachments/assets/098c4f2b-6f0d-4ebb-9fb4-b029d3d0fcdc" />
-** OVP: ** <img width="1862" height="680" alt="Overvoltage_protection" src="https://github.com/user-attachments/assets/fd935441-2e70-49f4-a5fe-04d0b27565a2" />
+**OCP:** <img width="1257" height="502" alt="Overcurrent_protection" src="https://github.com/user-attachments/assets/098c4f2b-6f0d-4ebb-9fb4-b029d3d0fcdc" />
+**OVP:** <img width="1862" height="680" alt="Overvoltage_protection" src="https://github.com/user-attachments/assets/fd935441-2e70-49f4-a5fe-04d0b27565a2" />
 
 ## 🚀 Quick Start
 1. **Simulate:** Open the files in `/Hardware/OrCAD_Source` in PSpice to view the transient response, line/load regulation, and foldback protection behavior. 
