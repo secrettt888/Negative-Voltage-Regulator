@@ -17,7 +17,7 @@ A fully discrete negative voltage regulator built entirely from transistors and 
 * **/Simulation:** PSpice `.sim` files and waveform plots.
 * **/Docs:** Component datasheets and the Bill of Materials (BOM).
 
-## 🛠️ Theory of Operation
+## 🧠 Theory of Operation
 
 <img width="1130" height="618" alt="image" src="https://github.com/user-attachments/assets/c737fb3e-1f31-4a8a-a676-5c2eec945175" />
 
@@ -36,7 +36,7 @@ The circuit relies entirely on discrete components to achieve stable voltage reg
 **OCP:** <img width="1257" height="502" alt="Overcurrent_protection" src="https://github.com/user-attachments/assets/098c4f2b-6f0d-4ebb-9fb4-b029d3d0fcdc" />
 **OVP:** <img width="1862" height="680" alt="Overvoltage_protection" src="https://github.com/user-attachments/assets/fd935441-2e70-49f4-a5fe-04d0b27565a2" />
 
-## 🚀 Quick Start
+## 🏁 Quick Start
 1. **Simulate:** Open the files in `/Hardware/OrCAD_Source` in PSpice to view the transient response, line/load regulation, and foldback protection behavior. 
 2. **Fabricate:** Use the Gerber files located in `/Hardware/Fabrication` to order your printed circuit boards.
 3. **Build:** Populate the components according to the `BOM.pdf` found in the `/Docs` folder.
